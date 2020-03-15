@@ -1,5 +1,6 @@
 # Darlene added API Key
-starter_code/api_keys.py
+WeatherPy/api_keys.py
+VacationPy/api_keys.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
